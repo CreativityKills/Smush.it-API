@@ -55,7 +55,14 @@ class Smushit {
 
 		curl_close($ch);
 
-		return json_decode($response);
+		$response = json_decode($response);
+
+		if (isset($response->error))
+		{
+			$this->_haltProcess('Smushit API Error: '.$response->error);
+		}
+
+		return $response;
 	}
 
 	/**

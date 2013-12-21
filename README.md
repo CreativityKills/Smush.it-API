@@ -1,5 +1,7 @@
 # Smush.it API Library
 
+[![Build Status](https://travis-ci.org/creativitykills/smushit.png)](https://travis-ci.org/creativitykills/smushit)
+
 This is a library that makes it easy to use the [http://smushit.com](Smush.it) API on your projects. Usage is easy, first install the library by unzipping to your library directory or better still using composer:
 
 ## Requirements

@@ -13,7 +13,7 @@ This is a library that makes it easy to use the [http://smushit.com](Smush.it) A
 Add this to your composer file:
 
     "require" : {
-    	"neo/hooks" : "dev-master"
+    	"neo/smushit" : "dev-master"
     }
 
 Then you can now run your <code>composer install</code> command and let it install all the dependencies.

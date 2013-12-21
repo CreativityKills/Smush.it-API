@@ -1,0 +1,20 @@
+{
+    "name": "neo/smushit",
+    "description": "",
+    "authors": [
+        {
+            "name": "Neo Ighodaro",
+            "email": "neo@creativitykills.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Neo\\Smushit": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

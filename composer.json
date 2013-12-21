@@ -1,6 +1,8 @@
 {
     "name": "neo/smushit",
-    "description": "",
+    "description": "Adds a wrapper around the Yahoo! Smushit service.",
+    "keywords": ["smushit", "image", "compression", "creativitykills", "neo"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Neo Ighodaro",
